@@ -1,5 +1,5 @@
 // This is my comment.
-// Comment No 2
+// This is a second change on GitHub
 
 // Comment No 4
 
